@@ -39,11 +39,11 @@ p, ol, ul, td {
   margin: 33px;
 }
 
-.th {
+th {
   padding-bottom: 5px;
 }
 
-.td {
+td {
   padding-bottom: 7px;
   padding-left: 5px;
   padding-right: 5px;
